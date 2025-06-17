@@ -1,23 +1,30 @@
-# Tic Tac Toe GUI in Java
+# 🎮 Tic Tac Toe GUI Game in Java
 
-🎮 A simple Tic Tac Toe game built using Java Swing.
+This is a colorful and interactive Tic Tac Toe game built with **Java Swing**. Two players (X and O) alternate turns to win the game. The interface is intuitive and responsive, perfect for practicing Java GUI programming.
 
-## 🛠 Features
-- Java Swing-based GUI
-- Two-player mode (X and O)
-- Win/draw detection
-- Reset/New Game functionality
+---
 
-## 💻 Technologies
-- Java
-- Swing (GUI)
-- AWT (Event Handling)
+## 📦 Features
 
-## 📷 Screenshot
-![Tic Tac Toe](screenshot.png)
+- 🔵 Player X (Blue) and 🔴 Player O (Red)
+- 🟩 Winning cells highlighted in green
+- 🎨 Status bar with colored messages
+- 🔁 "New Game" button to reset
+- 🧠 Built using Java Swing
 
-## 🚀 How to Run
-1. Compile: `javac TicTacToeGUI.java`
-2. Run: `java TicTacToeGUI`
+---
 
-## 📁 Project Structure
+## 🖥️ Requirements
+
+- Java JDK 8 or above
+- Text editor / IDE like IntelliJ, Eclipse, or VS Code
+
+---
+
+## 🚀 How to Compile and Run
+
+### 🧾 Using Terminal
+
+```bash
+javac TicTacToeGUI.java
+java TicTacToeGUI
